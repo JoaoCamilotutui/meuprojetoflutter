@@ -1,0 +1,14 @@
+name: calculadora_imc
+description: App simples para calcular o IMC.
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true
+  
