@@ -1,16 +1,17 @@
 # imccalc
 
-A new Flutter project.
+IMC FÁCIL - Projeto iniciante em Flutter.
 
-## Getting Started
+## Iniciando
 
-This project is a starting point for a Flutter application.
+Estou iniciando meus estudos em Flutter e apresento
+meu primeiro projeto: IMCCALC > IMC FÁCIL
 
-A few resources to get you started if this is your first Flutter project:
+O seu uso é muito fácil.
+Basta informar seu peso e sua altura para que seja
+calculado seu índice de massa corporal IMC.
+Depois com o resultado você pode observar sua
+condição de saúde corporal.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Faça bom uso!
+João Camilo
